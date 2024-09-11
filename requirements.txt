@@ -1,8 +1,8 @@
 streamlit==1.26.0
 opencv-python==4.5.3.56
+numpy>=1.23
 opencv-contrib-python==4.5.3.56
 dlib==19.22.1
-numpy==1.21.2
 simple-facerec==0.1.0
 threading==0.1.2
 pyaudio==0.2.11
